@@ -1,18 +1,14 @@
 # snailFly
 ## Description
-snailFly is a project designed to help users track and manage their tasks efficiently. It provides a simple and intuitive interface for creating, updating, and completing tasks.
+snailFly is a project designed to help users track and manage their papers (writing) efficiently. It provides a simple and intuitive interface for uploading, preserving, and analyzing any changes in their writing style (argumentation, vocabulary, etc)
 
-## Features
-- Task creation and management
-- Due date reminders
-- Task prioritization
-- User-friendly interface
+
 
 ## Installation
 To install snailFly, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/snailfly.git
+    git clone https://github.com/manoj-dhakal/snailfly.git
     ```
 2. Navigate to the project directory:
     ```bash
